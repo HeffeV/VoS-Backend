@@ -1,0 +1,64 @@
+C:\Users\jeffv\Desktop\Aperam-back\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\jeffv\Desktop\Aperam-back\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\jeffv\Desktop\Aperam-back\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\jeffv\Desktop\Aperam-back\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\VoSAPI.deps.json
+C:\Users\jeffv\Desktop\Aperam-back\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\VoSAPI.runtimeconfig.json
+C:\Users\jeffv\Desktop\Aperam-back\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\VoSAPI.runtimeconfig.dev.json
+C:\Users\jeffv\Desktop\Aperam-back\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\VoSAPI.dll
+C:\Users\jeffv\Desktop\Aperam-back\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\VoSAPI.pdb
+C:\Users\jeffv\Desktop\Aperam-back\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.csprojAssemblyReference.cache
+C:\Users\jeffv\Desktop\Aperam-back\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.RazorAssemblyInfo.cache
+C:\Users\jeffv\Desktop\Aperam-back\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.RazorAssemblyInfo.cs
+C:\Users\jeffv\Desktop\Aperam-back\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.AssemblyInfoInputs.cache
+C:\Users\jeffv\Desktop\Aperam-back\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.AssemblyInfo.cs
+C:\Users\jeffv\Desktop\Aperam-back\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.RazorTargetAssemblyInfo.cache
+C:\Users\jeffv\Desktop\Aperam-back\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.dll
+C:\Users\jeffv\Desktop\Aperam-back\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.pdb
+C:\Users\jeffv\Desktop\Vos backends\Aperam-back\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\jeffv\Desktop\Vos backends\Aperam-back\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\jeffv\Desktop\Vos backends\Aperam-back\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\jeffv\Desktop\Vos backends\Aperam-back\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\VoSAPI.deps.json
+C:\Users\jeffv\Desktop\Vos backends\Aperam-back\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\VoSAPI.runtimeconfig.json
+C:\Users\jeffv\Desktop\Vos backends\Aperam-back\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\VoSAPI.runtimeconfig.dev.json
+C:\Users\jeffv\Desktop\Vos backends\Aperam-back\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\VoSAPI.dll
+C:\Users\jeffv\Desktop\Vos backends\Aperam-back\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\VoSAPI.pdb
+C:\Users\jeffv\Desktop\Vos backends\Aperam-back\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.csprojAssemblyReference.cache
+C:\Users\jeffv\Desktop\Vos backends\Aperam-back\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.RazorAssemblyInfo.cache
+C:\Users\jeffv\Desktop\Vos backends\Aperam-back\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.RazorAssemblyInfo.cs
+C:\Users\jeffv\Desktop\Vos backends\Aperam-back\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.AssemblyInfoInputs.cache
+C:\Users\jeffv\Desktop\Vos backends\Aperam-back\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.AssemblyInfo.cs
+C:\Users\jeffv\Desktop\Vos backends\Aperam-back\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.RazorTargetAssemblyInfo.cache
+C:\Users\jeffv\Desktop\Vos backends\Aperam-back\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.dll
+C:\Users\jeffv\Desktop\Vos backends\Aperam-back\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.pdb
+C:\Users\jeffv\Desktop\Project4.0\Vos backends\Aperam-back\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\jeffv\Desktop\Project4.0\Vos backends\Aperam-back\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\jeffv\Desktop\Project4.0\Vos backends\Aperam-back\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\jeffv\Desktop\Project4.0\Vos backends\Aperam-back\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\VoSAPI.deps.json
+C:\Users\jeffv\Desktop\Project4.0\Vos backends\Aperam-back\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\VoSAPI.runtimeconfig.json
+C:\Users\jeffv\Desktop\Project4.0\Vos backends\Aperam-back\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\VoSAPI.runtimeconfig.dev.json
+C:\Users\jeffv\Desktop\Project4.0\Vos backends\Aperam-back\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\VoSAPI.dll
+C:\Users\jeffv\Desktop\Project4.0\Vos backends\Aperam-back\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\VoSAPI.pdb
+C:\Users\jeffv\Desktop\Project4.0\Vos backends\Aperam-back\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.csprojAssemblyReference.cache
+C:\Users\jeffv\Desktop\Project4.0\Vos backends\Aperam-back\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.RazorAssemblyInfo.cache
+C:\Users\jeffv\Desktop\Project4.0\Vos backends\Aperam-back\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.RazorAssemblyInfo.cs
+C:\Users\jeffv\Desktop\Project4.0\Vos backends\Aperam-back\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.AssemblyInfoInputs.cache
+C:\Users\jeffv\Desktop\Project4.0\Vos backends\Aperam-back\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.AssemblyInfo.cs
+C:\Users\jeffv\Desktop\Project4.0\Vos backends\Aperam-back\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.RazorTargetAssemblyInfo.cache
+C:\Users\jeffv\Desktop\Project4.0\Vos backends\Aperam-back\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.dll
+C:\Users\jeffv\Desktop\Project4.0\Vos backends\Aperam-back\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.pdb
+C:\Users\jeffv\Desktop\vos\VoS-Backend\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\jeffv\Desktop\vos\VoS-Backend\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\jeffv\Desktop\vos\VoS-Backend\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\jeffv\Desktop\vos\VoS-Backend\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\VoSAPI.deps.json
+C:\Users\jeffv\Desktop\vos\VoS-Backend\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\VoSAPI.runtimeconfig.json
+C:\Users\jeffv\Desktop\vos\VoS-Backend\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\VoSAPI.runtimeconfig.dev.json
+C:\Users\jeffv\Desktop\vos\VoS-Backend\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\VoSAPI.dll
+C:\Users\jeffv\Desktop\vos\VoS-Backend\VoSAPI\VoSAPI\bin\Release\netcoreapp2.2\VoSAPI.pdb
+C:\Users\jeffv\Desktop\vos\VoS-Backend\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.csprojAssemblyReference.cache
+C:\Users\jeffv\Desktop\vos\VoS-Backend\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.RazorAssemblyInfo.cache
+C:\Users\jeffv\Desktop\vos\VoS-Backend\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.RazorAssemblyInfo.cs
+C:\Users\jeffv\Desktop\vos\VoS-Backend\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.AssemblyInfoInputs.cache
+C:\Users\jeffv\Desktop\vos\VoS-Backend\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.AssemblyInfo.cs
+C:\Users\jeffv\Desktop\vos\VoS-Backend\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.RazorTargetAssemblyInfo.cache
+C:\Users\jeffv\Desktop\vos\VoS-Backend\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.dll
+C:\Users\jeffv\Desktop\vos\VoS-Backend\VoSAPI\VoSAPI\obj\Release\netcoreapp2.2\VoSAPI.pdb
